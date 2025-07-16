@@ -35,7 +35,6 @@ AI-Trip_Planner is a powerful intelligent Agentic AI system, is is a travel assi
 - 🧭 **AI-Powered Planning** — Natural language trip generation using LLMs
 - 🧩 **Modular Tools** — Easily extend tools for weather, currency, hotels, etc.
 - 🌐 **API Integration** — Weather, currency, Google Places, and more
-- 📄 **PDF & Markdown Export** — Save plans as `.pdf` or `.md` files
 - 🌍 **Frontend App** — React-based UI with HTML/CSS support
 - ⚡ **Multi-agent Workflow** — Supports task delegation and automation
 - 🪄 **Streamlit Interface** — Optional lightweight demo UI
@@ -52,7 +51,6 @@ AI-Trip_Planner is a powerful intelligent Agentic AI system, is is a travel assi
 | 🛠️ Backend  | FastAPI, LangChain |
 | 🌍 Frontend | React, HTML, CSS |
 | 📊 APIs     | Google Places, Tavily, Weather, Currency |
-| 📄 Export   | ReportLab, Markdown |
 | 🔁 Runtime  | `uv`, `venv`, `Python 3.10+` |
 
 
