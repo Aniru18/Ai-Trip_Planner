@@ -104,13 +104,6 @@ conda deactivate
 ```bash
 uv pip install -r requirements.txt
 ```
-
-**Or manually install:**
-
-```bash
-uv add langchain langchain-community langchain-experimental fastapi python-dotenv streamlit uvicorn
-```
-
 ---
 
 ### ✅ Step 5: Run the Backend (FastAPI)
