@@ -136,6 +136,9 @@ npm start
 Made with ❤️ by [Aniruddha Shit](https://github.com/Aniru18)
 
 ---
+## 🧠 System Architecture
+
+![Architecture Diagram](./my_graph.png)
 
 ## 📸 Screenshots
 
@@ -148,5 +151,6 @@ Made with ❤️ by [Aniruddha Shit](https://github.com/Aniru18)
 ### 🟦 React Frontend Interface
 
 ![React UI](./assets/react.jpg)
+
 
 
