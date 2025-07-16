@@ -152,12 +152,12 @@ Made with ❤️ by [Aniruddha Shit](https://github.com/Aniru18)
 
 ### 🔷 Streamlit Interface
 
-![Streamlit UI](./assets/streamlit_ui.png)
+![Streamlit UI](./assets/streamlit.jpg)
 
 ---
 
 ### 🟦 React Frontend Interface
 
-![React UI](./assets/react_ui.png)
+![React UI](./assets/react.jpg)
 
 
