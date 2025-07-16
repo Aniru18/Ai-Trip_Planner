@@ -26,7 +26,7 @@ _Transforming Travel Dreams Into Seamless Adventures_
 
 ## ✨ Project Overview
 
-AI-Trip_Planner is a powerful intelligent travel assistant that helps users create personalized travel plans using natural language. Built with LangChain, React, and FastAPI, it delivers a seamless multi-agent experience with real-time integrations.
+AI-Trip_Planner is a powerful intelligent Agentic AI system, is is a travel assistant that helps users create personalized travel plans using natural language. Built with LangChain, React, and FastAPI, it delivers a seamless multi-agent experience with real-time integrations.
 
 ---
 
