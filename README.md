@@ -137,8 +137,6 @@ npm install
 npm start
 ```
 
----
-
 
 ---
 
